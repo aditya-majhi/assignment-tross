@@ -614,7 +614,7 @@ The public URL contains only the vanity name:
 /in/example-user/
 ```
 
-but some internal LinkedIn components also expect an internal identifier similar to:
+but the internal LinkedIn API's also expect an internal identifier similar to(vieweeProfileId):
 
 ```text
 ACoA...
